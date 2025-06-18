@@ -1,0 +1,51 @@
+/* App.css */
+
+.dark-theme {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+.light-theme {
+  background-color: #ffffff;
+  color: #111111;
+}
+
+.dark-theme button {
+  background-color: #333;
+  color: white;
+}
+
+.light-theme button {
+  background-color: #eee;
+  color: black;
+}
+
+.dark-theme input {
+  background-color: #2a2a2a;
+  color: #f0f0f0;
+  border: 1px solid #555;
+}
+
+.light-theme input {
+  background-color: #fff;
+  color: #111;
+  border: 1px solid #ccc;
+}
+
+h2, h5 {
+  margin-top: 2rem;
+}
+
+hr {
+  margin: 1rem 0 2rem;
+  border: none;
+  border-top: 1px solid #888;
+}
+
+button {
+  margin: 0.25rem;
+  padding: 0.4rem 1rem;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
